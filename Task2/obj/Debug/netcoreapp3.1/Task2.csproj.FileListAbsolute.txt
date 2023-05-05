@@ -1,0 +1,13 @@
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\keba_e\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\keba_e\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
